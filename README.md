@@ -24,6 +24,8 @@ In home folder some files are hidden, press Ctrl+H to see the hidden files, you 
         
 Then right-click on MyScript.desktop and go to properties and then go to permissions. Check-in the box "Allow executing file as program"
 
+Reboot the machine
+
 All Set ENJOY!!!!
 
 
