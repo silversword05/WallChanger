@@ -19,7 +19,8 @@ DO NOT GIVE X-GNOME-Autostart-Delay=0
 
 Save the file as MyScript.desktop
 Now move the file to /home/aadi/.config/autostart
-        In home folder some files are hidden, press Ctrl+H to see the hidden files, you will see .config folder
+
+In home folder some files are hidden, press Ctrl+H to see the hidden files, you will see .config folder
         
 Then right-click on MyScript.desktop and go to properties and then go to permissions. Check-in the box "Allow executing file as program"
 
