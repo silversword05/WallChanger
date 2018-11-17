@@ -29,6 +29,9 @@ All Set ENJOY!!!!
 # Cautions
 
 If you add a new image in the folder, that image will be counted from your next reboot
+
 If you delete any image, then default wallpaper will be shown in its place. It will be corrected in your next start-up
+
 To stop this, delete the MyScript.desktop file in /home/aadi/.config/autostart and perform a restart and then the delete the wallpaper folder.
+
 DO NOT DELETE THE WALL-PAPER FOLDER BEFORE DELETING THE AUTO-START SCRIPT. DELETE THE FOLDER AFTER THE NEXT RE-BOOT
